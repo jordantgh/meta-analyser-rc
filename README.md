@@ -2,7 +2,9 @@
 
 ## Overview
 
-<img src="assets/image.jpg" alt="AppScreenShot" width="200"/>
+<p>
+  <img src="assets/image.jpg" alt="AppScreenShot" width="200" />
+</p>
 
 This is a tool designed to partially automate data search and extraction from scientific literature as well as facilitate its pre-cleaning. It performs searches of PubMed Central open access articles (using the normal PMC search syntax) and automatically retrieves supplementary files. It includes a processing workflow that attempts to parse out discrete data frames from often inconsistently formatted .xlsx and .csv files provided with academic publications. Users can preview data files and select the ones they want to process. Once processing is complete, the user again has the opportunity to further refine the data by filtering unwanted tables and selecting specific data features. The data is stored in a local SQLite database.
 
