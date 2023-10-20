@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center" width="100%">
-    <img width="50%" src="assets/image.png">
+    <img width="60%" src="assets/image.png">
 </p>
 
 
